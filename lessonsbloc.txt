@@ -1,0 +1,7 @@
+things i learned at bloc
+
+html
+css
+git
+command line
+js
